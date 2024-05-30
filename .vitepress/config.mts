@@ -5,6 +5,7 @@ export default defineConfig({
   title: "GIT Management on GIT Hub - mootamgithub01",
   description: "A VitePress Site",
   base: '/jb-git-practice/',
+  outDir: './docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
